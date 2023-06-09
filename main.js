@@ -10,15 +10,15 @@ const playLists = [
   ]
 
 const colors = [
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png"
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png"
     ]
 
 const images = [
